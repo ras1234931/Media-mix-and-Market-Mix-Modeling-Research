@@ -4,3 +4,9 @@ This is a GitHub repository to collate literature survey and record progress on 
 
 
 Information for saving and managing papers can be found <a href="./Instructions on saving papers.md">here</a>
+
+
+# Important Links:
+
+1. Google document with learnings from online courses - https://docs.google.com/document/d/1QnR3pLDxUPJljmydTxpwuZNELly9wPo37hHovlzFg_Y/edit
+2. Online course tracker - https://onedrive.live.com/edit.aspx?resid=57CD3DA0FA90D106!14393&ithint=file%2cxlsx&authkey=!AHkHPgmasJj5pd4
